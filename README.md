@@ -18,6 +18,9 @@ Generates a github readme file based off user input using node.js v 9.0.0 and in
 ## Usage
 npm start - in your terminal whilst in the readme-generator folder - this will save the folder to your root system - to change this go line 81 of index.js and change 'README.md' to your file location e.g /user/documents/project-folder/README.md
 
+![readme gen example](https://user-images.githubusercontent.com/89007022/178668698-a685c6ce-d867-49a2-90b7-701f615dcd72.png)
+
+
 ## Contributing
 https://www.youtube.com/watch?v=1NrHkjlWVhM&ab_channel=WebDevSimplified | https://www.youtube.com/watch?v=QFV7jzu8mKw&ab_channel=TheMasterClass
 
